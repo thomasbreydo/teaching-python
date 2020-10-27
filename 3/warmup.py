@@ -2,7 +2,7 @@
 Write a program that tells a student what they should depending on if it's the weekend:
 
 1.
-  Ask, "Is it the weekend (yes or no)? "
+  Ask, "Is it the weekend (yes/no)? "
 
 2.
   If it's the weekend, use 3 print statements to say:
