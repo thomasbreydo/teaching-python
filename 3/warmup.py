@@ -20,3 +20,14 @@ Write a program that tells a student what they should depending on if it's the w
 *4.
   Treat inputs like "Yes" and "YES" as valid, and print responses correctly.
 """
+
+is_weekend = input("Is it the weekend? ")
+if is_weekend.lower() == "yes":
+    print("sleep")
+    print("brunch")
+    print("chill")
+elif is_weekend.lower() == "no":
+    print("wake up")
+    print("go to school")
+else:
+    print("invalid input")

@@ -1,5 +1,6 @@
 # Functions: reusable mini-programs
 
+#      f   ( x  )
 def welcome(name):
     print("Welcome!")
     print("I am excited to have you here")
@@ -11,6 +12,29 @@ def welcome(name):
     else:
         print("Didn't understand your answer.")
 
+
 welcome("Jani")
 print("---")
 welcome("Thomas")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#########################################################################################
+# Functions can return values
+
+def multiply_by_2(number):
+    return 2 * number
