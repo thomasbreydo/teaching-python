@@ -28,6 +28,7 @@ print(x)
 
 def perimeter(width, length):
     # return the perimeter
+    pass
 
 
 #
