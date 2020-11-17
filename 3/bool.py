@@ -18,6 +18,13 @@
 """
 
 
+
+
+
+
+
+
+
 height = input("How many feet tall are you? ")
 if int(height) < 5:
     short = True
